@@ -1,0 +1,6 @@
+{
+  "editor.cursorWidth": 1,
+  "editor.multiCursorLimit": 1000,
+  "editor.overtypeCursorStyle": "line-thin",
+  "editor.suggest.localityBonus": false
+}
