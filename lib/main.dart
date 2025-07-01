@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // theme: ThemeData(
-      //   scaffoldBackgroundColor: const Color.fromARGB(255, 219, 236, 229),
+      theme: ThemeData(
+        scaffoldBackgroundColor: const Color.fromARGB(255, 219, 236, 229),
         fontFamily: 'Lato',
 
         colorScheme: ColorScheme.fromSeed(
